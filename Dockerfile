@@ -1,3 +1,3 @@
-From deckersamples/static-site
+From dockersamples/static-site
 ENV AUTHOR="GEN MIZUSHINA"
 
